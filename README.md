@@ -1,6 +1,6 @@
-# businesscard
+# Business Card
 
-A business card Flutter application.
+A business card built with flutter. The app displays a picture, work title and contact details.
 
 ## Getting Started
 
