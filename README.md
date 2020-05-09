@@ -3,6 +3,8 @@
 A business card built with flutter. The app displays a picture, work title and contact details.
 
 ## Screenshot
+![BusinessCardUI](https://user-images.githubusercontent.com/52799413/81472499-f610f200-91e7-11ea-932c-f336c69fedb7.png)
+
 
 
 ### Getting Started
