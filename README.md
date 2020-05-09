@@ -2,7 +2,10 @@
 
 A business card built with flutter. The app displays a picture, work title and contact details.
 
-## Getting Started
+## Screenshot
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
