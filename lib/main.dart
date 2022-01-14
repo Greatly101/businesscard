@@ -13,7 +13,7 @@ class _BusinessCardState extends State<BusinessCard> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       home: Scaffold(
         //backgroundColor: Colors.teal,
         body: SafeArea(
